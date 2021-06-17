@@ -5,4 +5,7 @@ echo "intall code, clone git<br>".PHP_EOL;
 
 include "core/db/sqlite.php";
 
+$x = new SQLiteConnection;
+$x->connect();
+
 ?>
