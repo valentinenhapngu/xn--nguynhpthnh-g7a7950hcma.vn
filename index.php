@@ -1,3 +1,4 @@
 <?php
-echo "hello world!"
+echo "hello world!".PHP_EOL;
+echo "test webhook, hihi".PHP_EOL;
 ?>
