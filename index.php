@@ -20,7 +20,7 @@ $x->connect();
 // $x->insert($tbname,$arr_value["field_selected"],$arr_value["field_value_list"]);
 
 
-
+// xxx - tesstt git after clon
 
 $x->disconect();
 
