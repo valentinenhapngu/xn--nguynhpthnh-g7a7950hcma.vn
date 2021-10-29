@@ -22,7 +22,7 @@ $x->connect();
 
 // xxx - tesstt git after clon
 
-// tesst on Hackintosh
+// tesst on Hackintosh v2
 
 $x->disconect();
 
