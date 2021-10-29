@@ -4,9 +4,9 @@ class DB{
 
     public $con;
     protected $servername = "localhost";
-    protected $username = "root";
-    protected $password = "";
-    protected $dbname = "mvc_crud_tinypc";
+    protected $username = " u848302103_root";
+    protected $password = "1234@Abcd@";
+    protected $dbname = "u848302103_php_mvc";
 
     function __construct(){
         $this->con = mysqli_connect($this->servername, $this->username, $this->password);
