@@ -22,6 +22,8 @@ $x->connect();
 
 // xxx - tesstt git after clon
 
+// tesst on Hackintosh
+
 $x->disconect();
 
 ?>
