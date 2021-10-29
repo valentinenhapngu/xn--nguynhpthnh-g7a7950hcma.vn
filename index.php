@@ -21,7 +21,7 @@
 // include_once "./mvc/core/DB.php";
 
  $servername = "localhost";
-     $username = " u848302103_root";
+     $username = "u848302103_root";
      $password = "1234@Abcd@";
      $dbname = "u848302103_php_mvc";
 
