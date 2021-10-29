@@ -18,7 +18,12 @@
 //     }
 
 // } 
-include_once "./mvc/core/DB.php";
+// include_once "./mvc/core/DB.php";
+
+ $servername = "localhost";
+     $username = " u848302103_root";
+     $password = "1234@Abcd@";
+     $dbname = "u848302103_php_mvc";
 
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
